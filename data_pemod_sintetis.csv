@@ -1,4 +1,4 @@
-Penari,Usia,Tinggi,Berat Badan,Lemak Tubuh,Panjang kaki,BMI,Pengalaman,pemanasan,pendinginan,Akumulasi
+Penari,Usia,Tinggi,Berat_Badan,Lemak_Tubuh,Panjang_kaki,BMI,Pengalaman,pemanasan,pendinginan,Akumulasi
 A,25,159,44.1,28.69,82.87,16.9,51,13.5,0.2,1
 B,29,155,43.28,28.1,89.78,22.0,265,14.1,0.0,2
 C,30,156,58.05,38.52,89.35,21.7,82,14.9,0.5,1
